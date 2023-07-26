@@ -1,4 +1,4 @@
-# SQUARE GALLERY ADD-ON FOR Square for WooCommerce
+# SYNC YOUR PRODUCT GALLERIES
 
 This is an add-on plugin for Square for WooCommerce: https://woocommerce.com/products/square/
 
