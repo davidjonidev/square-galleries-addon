@@ -1,0 +1,21 @@
+.last-synced-product {
+	font-size: 18px;
+	font-weight: bold;
+
+	margin-bottom: 1rem;
+}
+
+.sync-update-log {
+	background: rgb(255, 255, 255);
+	padding: 12px;
+	border-radius: 12px;
+	margin-bottom: 1rem;
+}
+
+.sync-loading {
+	display: none;
+}
+
+#sync-galleries-btn {
+	margin-bottom: 2rem;
+}
